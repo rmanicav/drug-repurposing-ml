@@ -1320,7 +1320,7 @@
                       <Disorder id="1328">
                         <OrphaNumber>64</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=64</ExpertLink>
-                        <Name lang="en">Alström syndrome</Name>
+                        <Name lang="en">AlstrÃ¶m syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
@@ -3460,7 +3460,7 @@
                           <Disorder id="19544">
                             <OrphaNumber>247768</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=247768</ExpertLink>
-                            <Name lang="en">Müllerian aplasia and hyperandrogenism</Name>
+                            <Name lang="en">MÃ¼llerian aplasia and hyperandrogenism</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -3757,7 +3757,7 @@
                           <Disorder id="1553">
                             <OrphaNumber>2856</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=2856</ExpertLink>
-                            <Name lang="en">Persistent Müllerian duct syndrome</Name>
+                            <Name lang="en">Persistent MÃ¼llerian duct syndrome</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -4189,7 +4189,7 @@
                           <Disorder id="11128">
                             <OrphaNumber>79084</OrphaNumber>
                             <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=79084</ExpertLink>
-                            <Name lang="en">Familial partial lipodystrophy, Köbberling type</Name>
+                            <Name lang="en">Familial partial lipodystrophy, KÃ¶bberling type</Name>
                           </Disorder>
                           <ClassificationNodeChildList count="0">
                           </ClassificationNodeChildList>
@@ -4677,7 +4677,7 @@
                       <Disorder id="1328">
                         <OrphaNumber>64</OrphaNumber>
                         <ExpertLink lang="en">http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&amp;Expert=64</ExpertLink>
-                        <Name lang="en">Alström syndrome</Name>
+                        <Name lang="en">AlstrÃ¶m syndrome</Name>
                       </Disorder>
                       <ClassificationNodeChildList count="0">
                       </ClassificationNodeChildList>
